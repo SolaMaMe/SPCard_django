@@ -55,7 +55,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ORIGIN_WHITELIST = [
-    "https://sharepostcard.herokuapp.com/",
+    "https://sharepostcard.herokuapp.com",
 ]
 
 ROOT_URLCONF = 'api_sns.urls'
